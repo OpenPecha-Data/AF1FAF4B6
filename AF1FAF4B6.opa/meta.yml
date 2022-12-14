@@ -1,0 +1,20 @@
+id: AF1FAF4B6
+title: Toh_335-The_Sutra_on_the_Ringing_Staff-v2
+type: translation
+pechas:
+- I4BE834DD
+- I413EC0B0
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-035
+  eft-text-version: 1.1.5 2020
+  title: Toh_335-The_Sutra_on_the_Ringing_Staff-v2
+alignment_to_base:
+  I4BE834DD/2FFD: D2AE
+  I413EC0B0/BF12: D2AE
